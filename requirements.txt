@@ -1,1 +1,2 @@
 farm-haystack==1.15.1
+jupyterlab
